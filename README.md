@@ -1,16 +1,26 @@
-## Hi there 👋
+# Abhinav VS
 
-<!--
-**vs-abhinav-dev/vs-abhinav-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+just a kid with a dream
 
-Here are some ideas to get you started:
+## /now
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Byte  
+Campus food ordering platform for on-campus vendors.
+
+Live  
+https://byteapp.tech
+
+
+## Other Projects
+
+### Professor Paaji  
+Semantic clustering pipeline for lecture material using NLP.
+
+### Dory  
+Cross-platform file manager built with Python and PyQt.
+
+
+## Links
+
+LinkedIn  
+https://linkedin.com/in/vs-abhinav-dev
